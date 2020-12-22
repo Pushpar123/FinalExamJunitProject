@@ -71,6 +71,7 @@ public class ValidatePage {
 
 		} else {
 			Assert.fail("Fail because did not remove");
+Assert.fail("Fail because did not remove");
 		}
 
 	}
